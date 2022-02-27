@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message from both houses of Parliament vnto His Majestie, concerning the prince, his son. With the answer of His Majestie thereunto. : Together with His Majesties answer to the desire of both houses concerning the militia.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82893</idno>
+            <idno type="STC">Wing E1655</idno>
+            <idno type="STC">ESTC R171991</idno>
+            <idno type="EEBO-CITATION">45097694</idno>
+            <idno type="OCLC">ocm 45097694</idno>
+            <idno type="VID">171291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171291)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2571:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message from both houses of Parliament vnto His Majestie, concerning the prince, his son. With the answer of His Majestie thereunto. : Together with His Majesties answer to the desire of both houses concerning the militia.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Browne, John, ca. 1608-1691.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Tompson.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. [3] dated and signed: Die Jovis 24. Febr. 1641 ... Io. Browne cler. Parliament.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  Militia.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171291:1" rendition="simple:additions"/>
+            <p>A MESSAGE FROM Both HOUSES of PARLIAMENT <hi>VNTO</hi> His MAJESTIE, Concerning the PRINCE His SON. With the ANSWER of his Majeſtie thereunto.</p>
+            <p>Together with His Majeſties Anſwer to the deſire of both Houſes concerning the MILITIA.</p>
+            <p>LONDON: Printed for JOHN TOMPSON. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:171291:2"/>
+            <pb facs="tcp:171291:2"/>
+            <head>A Meſſage from both Houſes of Parliament unto his Majeſtie, concerning the Prince, His SON.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in Par<g ref="char:EOLhyphen"/>liament humbly deſire His Maje<g ref="char:EOLhyphen"/>ſtie, That the Prince may not be removed from <hi>Hampton Court;</hi> And that for theſe enſuing Reaſons.</p>
+            <p n="1">I. They conceive his Maieſtie had Reſolved that the Prince ſhould ſtay at <hi>Hampton Court</hi> untill his Ma<g ref="char:EOLhyphen"/>jeſties Return.</p>
+            <p n="2">II. That the Lord Marqueſſe <hi>Hertford,</hi> appointed by his Maieſtie to be Governour of the Prince, and approved of, and commanded by the Parliament to give his perſonall attendance on the Prince, Is now ſo indiſpoſed in his health, that he is not able to at<g ref="char:EOLhyphen"/>tend the Prince to any other place.</p>
+            <p n="3">III. That the Prince his Removall at this time from <hi>Hampton Court,</hi> may be a cauſe to promote Iealou<g ref="char:EOLhyphen"/>ſies and Fears in the hearts of his Maieſties good Subiects, which they conceive very neceſſary to avoid.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <head>Die Jovis 24. Febr. 1641.</head>
+            <p>
+               <hi>ORdered by the Lords and Commons in Parliament, that the Lord</hi> Howard <hi>of</hi> Char <hi>ſhall attend upon the King, and preſent theſe Reaſons unto his Majeſtie.</hi>
+            </p>
+            <closer>
+               <signed>Io. Browne Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:171291:3"/>
+            <head>His Majeſties Anſwer to the Reaſons Hee Received by way of Meſſage from both Houſes <hi>concerning the</hi> PRINCE <hi>his</hi> SON.</head>
+            <p>THat His Majeſty intended at his remove from <hi>Hampton Court</hi> with His Royall Conſort the Queen, towards <hi>Dover,</hi> That the Prince His Son ſhould ſtay at <hi>Hampton-Court,</hi> till His Majeſty returned to ſome of His Houſes: and thereupon as ſoon as His Majeſty reſolved upon a certain day to be at <hi>Greenwich,</hi> He commanded that his Son ſhould attend him there, which was no way contrary to his former Intention.</p>
+            <p n="2">2. That His Majeſty was very ſorry to hear of the In<g ref="char:EOLhyphen"/>diſpoſition of the Marqueſſe <hi>Hertford,</hi> being the Perſon up<g ref="char:EOLhyphen"/>on whom He principally relies for the Care of his deareſt Son; But if that indiſpoſition ſhould have laſted, His Maje<g ref="char:EOLhyphen"/>ſty could no wayes think fit, that his want of health ſhould have hindred the Prince from waiting upon His Majeſty, according to His Command, and therefore would have bin much offended if the Prince had failed of meeting His Ma<g ref="char:EOLhyphen"/>jeſty, according to his appointment.</p>
+            <p n="3">3. To the Fears and Jealouſies, His Majeſty knowes not what Anſwer to give, not being able to imagine from what grounds they proceed. But if any Information have bin given to that purpoſe, His Maieſty much deſires that the ſame may be examined to the bottome, and then Hee hopes that theſe Fears and Iealouſies will be hereafter continued onely with Reverence to His Majeſties Rights and Honour.</p>
+         </div>
+         <div type="document">
+            <pb facs="tcp:171291:3"/>
+            <head>His Majeſties Anſwer to both Houſes, con<g ref="char:EOLhyphen"/>ning the <hi>Militia.</hi>
+            </head>
+            <p>HIS Majeſty having with his beſt care and underſtanding peruſed and conſidered that which was ſent him from both Houſes for the Ordering of the <hi>Militia,</hi> preſented unto him to be made an Ordinance of Parliament, by the giving of his Royall aſſent; as he can by no means doe it, for the Reaſons hereafter mentioned, ſo hee doth not conceive himſelf oblieged by any promiſe made in His Anſwer of the ſecond of this month, to the Pe<g ref="char:EOLhyphen"/>tition to both Houſes to yeeld to the ſame.</p>
+            <p>His Majeſty finds great cauſe to except againſt the Preface or Introduction to that Order, which confeſſeth a moſt dangerous and deſperate Deſigne upon the Houſe of Commons, of late, ſuppoſed to be an effect of the bloudy Counſels of Papiſts, and o<g ref="char:EOLhyphen"/>ther ill-affected perſons; by which many may un<g ref="char:EOLhyphen"/>derſtand (looking upon other printed papers to that purpoſe) his comming in Perſon to the Houſe of Commons, on the fourth day of Ianuary, which be<g ref="char:EOLhyphen"/>got ſo unhappy a miſunderſtanding between Him and His People: And for that, though He beleeves it, upon the Information ſince given Him, to bee an apparent breach of their Priviledge, and hath offe<g ref="char:EOLhyphen"/>red, and is ready to repair the ſame for the future, by any Act ſhall be deſired of His Majeſty; Yet Hee muſt declare and require to be beleeved, That Hee had no other Deſign upon that Houſe or any Mem<g ref="char:EOLhyphen"/>ber of it, then to require (as He did) the perſons of thoſe five Gentlemen His Majeſty had the day be<g ref="char:EOLhyphen"/>fore accuſed of High Treaſon.</p>
+            <p>
+               <pb facs="tcp:171291:4"/>
+And to declare, that hee meant to proceed againſt them legally, and ſpeedily; upon which He beleeved that Houſe would have delivered them up: And his Majeſty cals the Almighty God to witneſſe, that He was ſo far from any intention or thought of force or violence, although that Houſe had not delivered them according to his Demand, or in any Caſe what ſoever, That hee gave thoſe his Servants and others (who then waited on his Majeſty) expreſſe Charge and Command, that they ſhould give no offence to any Man; Nay if they received any provocation or injury, that they ſhould bear it without Return. And his Majeſty neither ſaw or knew that any perſon of his Train had any other weapons, but his Penſioners and Guard, thoſe with which they uſually attend His Perſon to Parliament, and the other Gentlemen Swords, And therefore his Majeſty doubts not, but his Parliament will bee ſo regardfull of his honour herein, that he ſhall not undergo any imputation by the raſh or indiſcreet expreſſions of any young men then in his Train, or by any deſperate words uttered by others, who might mingle with them without his confent or approbation.</p>
+            <p>For the perſons nominated to bee Lieutenants of the ſeverall Counties of <hi>England and Wales,</hi> his Ma<g ref="char:EOLhyphen"/>jeſty is contented to allow that Recommendation, onely concerning the City of <hi>London,</hi> and ſuch other Corporations, as by ancient Charters have granted unto them the power of the <hi>Militia,</hi> his Majeſty doth not conceive that it can ſtand with Iuſtice or Policy to alter their Government in that particular: And His Maieſtie is willing forthwith to grant every of
+<pb facs="tcp:171291:4"/>
+them (that of <hi>London</hi> and thoſe other Corporations excepted) ſuch Commiſſions as He hath done this Parliament to ſome Lord Lieutenants by your ad<g ref="char:EOLhyphen"/>vice. But if that power be not thought enough, but that more ſhall be thought fit to be granted to theſe perſons named, then by the Law is in the Crown it ſelf, his Majeſty holds it reaſonable, that the ſame be by ſome law firſt veſted in him, with power to tranſ<g ref="char:EOLhyphen"/>fer it to theſe perſons which he will willingly doe; And what ever that power ſhall be, to avoid all fu<g ref="char:EOLhyphen"/>ture doubts and queſtions, his Majeſty deſires it may be digeſled into an Act of Parliament rather then an Ordinance, ſo that all his loving Subjects may thereby particularly know, both what they are to do and what they are to ſuffer for their neglect, that there bee the leaſt Latitude for his good Subjects to ſuffer under any arbitrary power whatſoever.</p>
+            <p>As to the time deſired for the continuance of the powers to be granted, His Maieſty giveth this An<g ref="char:EOLhyphen"/>ſwer, That hee cannot conſent to deveſt himſelf of the juſt power which God and the laws of this King<g ref="char:EOLhyphen"/>dome have placed in him for the defence of his peo<g ref="char:EOLhyphen"/>ple, and to put it into the hands of others for any in<g ref="char:EOLhyphen"/>definite time. And ſince the ground of this requeſt from his Parliament was to ſecure their p<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſent fears and jealouſies, that they might with ſafety apply themſelves to the matter of his Meſſage of the 20 of Ian. His Maieſty hopeth that his grace to them ſince that time in yeelding to ſo many of their deſires, and in agreeing to the perſons recommended to him by his Parliament, and the power before expreſſed to be placed in them, will wholly diſpell thoſe Fears and
+<pb facs="tcp:171291:5"/>
+Iealouſies, and aſſureth them that as his Maieſtie hath now applied this unlawfull remedie to their doubts, ſo (if there ſhall be cauſe) He will continue the ſame to ſuch time as ſhall be agreeable to the ſame care <hi>He</hi> now expreſſeth towards them.</p>
+            <p>And in this Anſwer, his Maieſtie is ſo far from receding from any thing <hi>He</hi> promiſed, or intended to grant in <hi>His</hi> Anſwer to the former Petition, that <hi>His</hi> Maieſtie hath hereby conſented to all was then asked of <hi>Him</hi> by that Petition concerning the <hi>Mili<g ref="char:EOLhyphen"/>tia</hi> of the Kingdome (except that of <hi>London,</hi> and thoſe other Corporations) which was to put the ſame into the hands of ſuch perſons as ſhould be re<g ref="char:EOLhyphen"/>commended unto Him by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment: And his Majeſtie doubts not, but the Parlia<g ref="char:EOLhyphen"/>ment, upon well weighing the particulars of this <hi>His</hi> Anſwer, will finde the ſame more ſatisfactorie to their ends, and the peace and welfare of all <hi>His</hi> good Subiects, then the way propoſed by this intended Ordinance, to which, for theſe Reaſons, <hi>His</hi> Maie<g ref="char:EOLhyphen"/>ſtie cannot conſent.</p>
+            <p>And whereas his Maieſtie obſerves by the Peti<g ref="char:EOLhyphen"/>tion of both Houſes, preſented unto him by the Earl of <hi>Portland,</hi> Sir <hi>Thomas Heal,</hi> and Sir <hi>William Savile,</hi> That in ſome places, ſome perſons begin already to intermeddle of themſelves with the <hi>Militia,</hi> His Maieſtie expecteth that <hi>His</hi> Parliament ſhould exa<g ref="char:EOLhyphen"/>mine the particulars thereof, it being a matter of high Concernment, and very great Conſequence.</p>
+            <p>And his Maieſtie requireth, that if it ſhall appear to <hi>His</hi> Parliament, that any perſons whatſoever have preſumed to command the <hi>Militia</hi> without lawfull Authority, they may be proceeded againſt according to Law.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171291:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
